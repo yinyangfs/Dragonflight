@@ -1,8 +1,5 @@
-# ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) TrinityCore (master)
+# ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) Dragonflight Project
 
-[![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/TrinityCore/TrinityCore.svg)](https://isitmaintained.com/project/TrinityCore/TrinityCore "Average time to resolve an issue") [![Percentage of issues still open](https://isitmaintained.com/badge/open/TrinityCore/TrinityCore.svg)](https://isitmaintained.com/project/TrinityCore/TrinityCore "Percentage of issues still open")
-
---------------
 
 ## Build Status
 
@@ -56,6 +53,7 @@ For SQL only fixes, open a ticket; if a bug report exists for the bug, post on a
 License: GPL 2.0
 
 Read file [COPYING](COPYING).
+All here based on TrinityCore! ( I am not author, only add some more commits to my fork )
 
 
 ## Authors &amp; Contributors
